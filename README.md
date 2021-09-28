@@ -40,12 +40,17 @@ Table Structure
 - Home
 ![Home page](CrudApp/Home.jpg)
 - View All customer
+![Home page](CrudApp/ViewAll.jpg)
 - Add Customer
+![Home page](CrudApp/add.jpg)
 - Find By Id 
 1. when id is present in database
+![Home page](CrudApp/FindById.jpg)
 2. when id in not present in database
+![Home page](CrudApp/FindByIdfailed.jpg)
 - Delete Customer
-1. when id not prsent
+1.when id not prsent
+![Home page](CrudApp/deleteNotFound.jpg)
 
 ## Authors and acknowledgmenth
  Vijay ingle
