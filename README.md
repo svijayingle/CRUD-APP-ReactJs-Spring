@@ -38,7 +38,7 @@ Table Structure
 
 ## Demo images
 - Home
-
+![Home page](CrudApp/Home.jpg)
 - View All customer
 - Add Customer
 - Find By Id 
