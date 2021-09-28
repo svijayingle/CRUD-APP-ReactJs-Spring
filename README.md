@@ -50,9 +50,6 @@ Table Structure
 1. when id is present in database
 ![Home page](CrudApp/FindById.jpg)
 
-2. when id in not present in database
-![Home page](CrudApp/FindByIdfailed.jpg)
-
 - Delete Customer
 1. when id not prsent
 
