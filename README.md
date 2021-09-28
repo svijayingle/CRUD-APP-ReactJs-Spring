@@ -22,9 +22,7 @@ This project Implements the
 
 
 Table Structure
-```
-![Home page](CrudApp/Screenshot (4).png)
-```
+![Home page](CrudApp/Tableschema.png)
 
 ## How to run ?
 - Clone the repo
