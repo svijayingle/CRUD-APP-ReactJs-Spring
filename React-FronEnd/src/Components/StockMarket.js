@@ -7,7 +7,7 @@ var options = {
     params: {Indices: 'NIFTY BANK'},
     headers: {
       'x-rapidapi-host': 'latest-stock-price.p.rapidapi.com',
-      'x-rapidapi-key': 'a6e3e99be2msh2cde232cf95b117p197ed7jsn99568f7b8cbe'
+      'x-rapidapi-key': 'API-KEY'
     }
   };
 class StockMarket extends Component {
